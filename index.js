@@ -6,7 +6,7 @@ const cors = require('cors');
 const categories = require('./data/coursesCategory.json');
 const course = require('./data/courses.json')
 
-
+get.use(cors())
 
 const port = 5000;
 
