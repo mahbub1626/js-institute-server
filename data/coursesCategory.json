@@ -1,34 +1,27 @@
 [
     {
       "id": "01",
-      "name": "Graphic Design"
+      "name": "Python : Master Programming"
     },
     {
       "id": "02",
-      "name": "Web Design"
+      "name": "Android Material Design"
     },
     {
       "id": "03",
-      "name": "Web Design and Development"
+      "name": "Unreal Engine Blueprint Game Developer"
     },
     {
       "id": "04",
-      "name": "Phython crush course"
+      "name": "Adobe Photoshop CC"
     },
     {
       "id": "05",
-    "name": "Wordpress theme Customaization"
+    "name": "Wordpress for Beginners - Master Wordpress Quickly"
     },
     {
       "id": "06",
-      "name": "JavaScript Advance Course"
-    },
-    {
-      "id": "07",
-      "name": "Digital Merketing"
-    },
-    {
-      "id": "08",
-      "name": "SEO"
+      "name": "Complete Web Developer Course"
     }
+
   ]
