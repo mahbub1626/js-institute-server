@@ -17,12 +17,16 @@ app.get('/categories', (req, res) => {
     res.send(categories);
 })
 
-app.get('/category/:id', (req, res) => {
-    const id = req.params.id;
-    const category = news.filter(n => n.category_id === id);
-    res.send(category);
+app.get('/course-categories', (req, res) => {
+    res.send(categories);
+});
 
-})
+// app.get('/category/:id', (req, res) => {
+//     const id = req.params.id;
+//     const category = news.filter(n => n.category_id === id);
+//     res.send(category);
+
+// })
 
 app.get('/courses', (req, res)=>{
     res.send(courses);

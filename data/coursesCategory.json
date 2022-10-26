@@ -1,7 +1,7 @@
 [
     {
       "id": "01",
-      "name": "Python : Master Programming"
+      "name": "Python: Master Course"
     },
     {
       "id": "02",
@@ -9,7 +9,7 @@
     },
     {
       "id": "03",
-      "name": "Unreal Engine Blueprint Game Developer"
+      "name": "Game Development"
     },
     {
       "id": "04",
@@ -17,11 +17,11 @@
     },
     {
       "id": "05",
-    "name": "Wordpress for Beginners - Master Wordpress Quickly"
+    "name": "Wordpress for Beginners"
     },
     {
       "id": "06",
-      "name": "Complete Web Developer Course"
+      "name": "Web Development Course"
     }
 
   ]
